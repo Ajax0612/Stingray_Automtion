@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name ="Main Driver">
+	
+ 
+ <test name="Business_Events">
+ 	<classes>
+ 		<class name="com.selenium.commonfiles.businessEvents.BusinessEvents">
+ 			<methods>
+ 				<include name="HandleBusinessEvent"></include>
+ 			</methods> 		
+ 		</class>
+ 	</classes>
+ </test>
+ 
+</suite>

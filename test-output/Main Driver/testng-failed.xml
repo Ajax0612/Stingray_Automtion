@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Main Driver]">
+  <test name="Business_Events(failed)">
+    <classes>
+      <class name="com.selenium.commonfiles.businessEvents.BusinessEvents">
+        <methods>
+          <include name="HandleBusinessEvent"/>
+          <include name="runBeforeSuite"/>
+          <include name="runAfterSuite"/>
+        </methods>
+      </class> <!-- com.selenium.commonfiles.businessEvents.BusinessEvents -->
+    </classes>
+  </test> <!-- Business_Events(failed) -->
+</suite> <!-- Failed suite [Main Driver] -->

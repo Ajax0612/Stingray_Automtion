@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="1" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[&lt;b&gt;&lt;a target=&apos;_blank&apos; href=&apos;file:///C:\Users\Ajinkya\Desktop\sting ray\DataDrivenFrameworkC:\Users\Ajinkya\Desktop\sting ray\DataDrivenFramework\src\com\selenium\Execution_Report\Report\images\Auto_-1340137016_XOQ_NB_01.png&apos;&gt;&lt;img width=&apos;50&apos; height=&apos;60&apos; src=&apos;file:///C:\Users\Ajinkya\Desktop\sting ray\DataDrivenFrameworkC:\Users\Ajinkya\Desktop\sting ray\DataDrivenFramework\src\com\selenium\Execution_Report\Report\images\Auto_-1340137016_XOQ_NB_01.png&apos;/&gt;XOQ_NB_01_error link &lt;/a&gt;]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64441" started-at="2018-12-16T15:37:11Z" finished-at="2018-12-16T15:38:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64441" started-at="2018-12-16T15:37:11Z" finished-at="2018-12-16T15:38:16Z">
+      <class name="com.selenium.commonfiles.businessEvents.BusinessEvents">
+        <test-method status="PASS" signature="runBeforeSuite(java.lang.reflect.Method)[pri:0, instance:com.selenium.commonfiles.businessEvents.BusinessEvents@1e397ed7]" name="runBeforeSuite" is-config="true" duration-ms="2514" started-at="2018-12-16T21:07:11Z" finished-at="2018-12-16T21:07:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.selenium.commonfiles.businessEvents.BusinessEvents.HandleBusinessEvent() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runBeforeSuite -->
+        <test-method status="FAIL" signature="HandleBusinessEvent()[pri:0, instance:com.selenium.commonfiles.businessEvents.BusinessEvents@1e397ed7]" name="HandleBusinessEvent" duration-ms="59858" started-at="2018-12-16T21:07:14Z" finished-at="2018-12-16T21:08:14Z">
+          <exception class="java.lang.Exception">
+            <message>
+              <![CDATA[Test - HandleBusinessEvent Failed]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Exception: Test - HandleBusinessEvent Failed
+	at com.selenium.commonfiles.businessEvents.BusinessEvents.HandleBusinessEvent(BusinessEvents.java:172)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Exception -->
+          <reporter-output>
+            <line>
+              <![CDATA[&lt;b&gt;&lt;a target=&apos;_blank&apos; href=&apos;file:///C:\Users\Ajinkya\Desktop\sting ray\DataDrivenFrameworkC:\Users\Ajinkya\Desktop\sting ray\DataDrivenFramework\src\com\selenium\Execution_Report\Report\images\Auto_-1340137016_XOQ_NB_01.png&apos;&gt;&lt;img width=&apos;50&apos; height=&apos;60&apos; src=&apos;file:///C:\Users\Ajinkya\Desktop\sting ray\DataDrivenFrameworkC:\Users\Ajinkya\Desktop\sting ray\DataDrivenFramework\src\com\selenium\Execution_Report\Report\images\Auto_-1340137016_XOQ_NB_01.png&apos;/&gt;XOQ_NB_01_error link &lt;/a&gt;]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HandleBusinessEvent -->
+        <test-method status="PASS" signature="runAfterSuite()[pri:0, instance:com.selenium.commonfiles.businessEvents.BusinessEvents@1e397ed7]" name="runAfterSuite" is-config="true" duration-ms="2050" started-at="2018-12-16T21:08:14Z" finished-at="2018-12-16T21:08:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runAfterSuite -->
+      </class> <!-- com.selenium.commonfiles.businessEvents.BusinessEvents -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

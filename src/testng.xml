@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name ="DEMO_Selenium_Project">
+	
+	<suite-files>
+			
+	   		<suite-file path="Main_Suite.xml"/>
+	   		  		
+	   		
+	</suite-files>
+</suite>

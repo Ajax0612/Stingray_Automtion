@@ -1,0 +1,22 @@
+2017/04/12 14:17:53.193 [DEBUG] main (TestBase.java) - Archiving the reports successfully
+2017/04/12 14:17:53.203 [DEBUG] main (TestBase.java) - loading Properties files
+2017/04/12 14:17:53.461 [DEBUG] main (TestBase.java) - loading Properties files successfully
+2017/04/12 14:17:53.461 [DEBUG] main (TestBase.java) - loading extent config file ....
+2017/04/12 14:17:53.471 [DEBUG] main (TestBase.java) - loading reporting drivers ....
+2017/04/12 14:17:53.971 [DEBUG] main (DataStructure.java) - Master Workbook initialized Sucessfully.
+2017/04/12 14:17:54.308 [DEBUG] main (BusinessEvents.java) - IRS.xlsx Workbook initialized Sucessfully.
+2017/04/12 14:17:54.318 [DEBUG] main (DataStructure.java) - Excel data Sucessfully populated in to Map Structure .
+2017/04/12 14:17:54.318 [DEBUG] main (TestUtil.java) - Test Method of NB For - IRS
+2017/04/12 14:17:54.418 [DEBUG] main (BusinessEvents.java) - IRS.xlsx Workbook initialized Sucessfully.
+2017/04/12 14:17:54.458 [DEBUG] main (DataStructure.java) - Excel data Sucessfully populated in to Map Structure .
+2017/04/12 14:17:54.458 [DEBUG] main (TestUtil.java) - Test Method of NB For - IRS
+2017/04/12 14:17:54.458 [DEBUG] main (TestUtil.java) - Test Method of MTA For - IRS
+2017/04/12 14:17:54.528 [DEBUG] main (BusinessEvents.java) - IRS.xlsx Workbook initialized Sucessfully.
+2017/04/12 14:17:54.548 [DEBUG] main (DataStructure.java) - Excel data Sucessfully populated in to Map Structure .
+2017/04/12 14:17:54.548 [DEBUG] main (TestUtil.java) - Test Method of NB For - IRS
+2017/04/12 14:17:54.548 [DEBUG] main (TestUtil.java) - Test Method of Rewind For - IRS
+2017/04/12 14:17:54.578 [DEBUG] main (_Log4jLoggerFactory.java) - Couldn't find template in cache for "Extent.Offline.ftl"("en_US", UTF-8, parsed); will try to load it.
+2017/04/12 14:17:54.578 [DEBUG] main (_Log4jLoggerFactory.java) - TemplateLoader.findTemplateSource("Extent.Offline_en_US.ftl"): Not found
+2017/04/12 14:17:54.578 [DEBUG] main (_Log4jLoggerFactory.java) - TemplateLoader.findTemplateSource("Extent.Offline_en.ftl"): Not found
+2017/04/12 14:17:54.578 [DEBUG] main (_Log4jLoggerFactory.java) - TemplateLoader.findTemplateSource("Extent.Offline.ftl"): Found
+2017/04/12 14:17:54.578 [DEBUG] main (_Log4jLoggerFactory.java) - Loading template for "Extent.Offline.ftl"("en_US", UTF-8, parsed) from "jar:file:/D:/Eclipse%20Jar%20Files/extentreports-java-v2.40.2/lib/extentreports-java-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.Offline.ftl"
